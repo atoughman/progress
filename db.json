@@ -1,0 +1,29 @@
+{
+  "habits": [
+    {
+      "id": 1,
+      "name": "Habit 1",
+      "description": "Description of Habit 1",
+      "doneToday": true,
+      "streak": 9
+    },
+    {
+      "name": "gym",
+      "description": "exer",
+      "doneToday": false,
+      "streak": 1,
+      "id": 4
+    },
+    {
+      "name": "gym",
+      "description": "exercise",
+      "doneToday": false,
+      "streak": 0,
+      "id": 5
+    }
+  ],
+  "resetTime": {
+    "id": 1,
+    "timeStamp": "1679682600000"
+  }
+}

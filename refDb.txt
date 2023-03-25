@@ -1,0 +1,29 @@
+{
+  "habits": [
+    {
+      "id": 1,
+      "name": "Habit 1",
+      "description": "Description of Habit 1",
+      "doneToday": true,
+      "streak": 1
+    },
+    {
+      "id": 2,
+      "name": "Habit 2",
+      "description": "Description of Habit 2",
+      "doneToday": false,
+      "streak": 0
+    },
+    {
+      "id": 3,
+      "name": "Habit 3",
+      "description": "Description of Habit 3",
+      "doneToday": false,
+      "streak": 0
+    }
+  ],
+  "resetTime": ["2022-04-01T00:00:00Z"]
+}
+
+// old time stamp : 1679560200000
+// current 5 pm : 1679729400000
